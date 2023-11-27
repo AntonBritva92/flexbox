@@ -1,15 +1,28 @@
-.first-div {
+.box-container {
+  height: 300px;
+}
 
+.first-div {
+  background-color: aqua;
+
+  width: 25%;
+  height: 50%;
 }
 
 .second-div {
-
+  background-color: firebrick;
+  width: 25%;
+  height: 50%;
 }
 
 .third-div {
-
+  background-color: blueviolet;
+  width: 25%;
+  height: 50%;
 }
 
 .fourth-div {
-
+  background-color: seagreen;
+  width: 25%;
+  height: 50%;
 }
