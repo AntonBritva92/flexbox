@@ -1,5 +1,7 @@
 .box-container {
   height: 300px;
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 .first-div {
@@ -26,3 +28,22 @@
   width: 25%;
   height: 50%;
 }
+
+/*
+second practice
+*/
+
+.second-box-container {
+  display: flex;
+}
+.img-div {
+  width: 500px;
+}
+
+.title-div {
+}
+.text-div {
+}
+/*
+second practice
+*/
